@@ -7,6 +7,10 @@ Mansoor H Mustapha
 Project Management System
 
 ## Name:
+JAFARI ZUBERI KISABUNI
+## Project Title:
+Waste Management System
+
 Rehema Suleiman Mwalim
 
 ## Project Title:
