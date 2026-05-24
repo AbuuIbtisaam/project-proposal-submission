@@ -5,6 +5,12 @@ Khamis Mussa Khamis
 ## Project Title:
 Student Result System
 
+## Name
+Ibrahim P Juma
+
+## Project Tittle
+ 
+ATM management system
 ## Name:
 JAFARI ZUBERI KISABUNI
 ## Project Title:
