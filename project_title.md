@@ -1,11 +1,16 @@
 # Write your name and Project Title below
 
-Eg.
+## Name:
+Khamis Mussa Khamis
+## Project Title:
+Student Result System
 
 ## Name:
-
-Khamis Mussa Khamis
-
+JAFARI ZUBERI KISABUNI
 ## Project Title:
+Waste Management System
 
-Student Result System
+## Name:
+Rehema Suleiman Mwalim
+## Project Title:
+Library managment 
