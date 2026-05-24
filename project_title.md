@@ -1,10 +1,9 @@
 # Write your name and Project Title below
-Eg.
 
-## Name: 
-Mansoor H Mustapha
+## Name:
+Khamis Mussa Khamis
 ## Project Title:
-Project Management System
+Student Result System
 
 ## Name:
 Asya Khamis
@@ -12,3 +11,18 @@ Asya Khamis
 Library management system
 
 
+## Name
+Ibrahim P Juma
+
+## Project Tittle
+ 
+ATM management system
+## Name:
+JAFARI ZUBERI KISABUNI
+## Project Title:
+Waste Management System
+
+## Name:
+Rehema Suleiman Mwalim
+## Project Title:
+Library managment 
